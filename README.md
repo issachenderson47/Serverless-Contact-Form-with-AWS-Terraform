@@ -8,7 +8,7 @@ Refer to the architecture diagram below for an overview:
 
 ![diagram](assets/diagram.png)
 
-##Frontend
+## Frontend
 
 The frontend application is developed using React and Mantine UI. It is easily extensible, allowing the addition of other pages alongside the contact form. Explore the frontend in the `frontend-react` directory.
 
