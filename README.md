@@ -48,3 +48,8 @@ Follow these steps to deploy the application. Note that these instructions are a
 3. Update the React app's contact-form component with the URL of the AWS API Gateway. Build the React app using `npm run build`. Upload the contents of the build folder to the new S3 bucket created by Terraform, either through the AWS console or AWS CLI.
 
 4. If using a custom domain, adjust the DNS settings of your custom domain to point to the CloudFront distribution.
+
+
+
+
+
